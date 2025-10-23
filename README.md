@@ -14,8 +14,10 @@
 ### 👨‍💻 Sobre Mim
 
 <p>
-  Sou um desenvolvedor apaixonado por tecnologia e por criar soluções que impactam positivamente a vida das pessoas. Sinta-se à vontade para explorar meus projetos e contribuições.
+  Estudante de Engenharia de Software e Analista N1, sou apaixonado por tecnologia e focado em construir uma carreira em desenvolvimento de software. Busco constantemente aprimorar minhas habilidades, explorando novas ferramentas para criar soluções inovadoras e eficientes para problemas complexos.
 </p>
+
+> Software Engineering student and N1 Analyst, I am passionate about technology and focused on building a career in software development. I constantly seek to improve my skills, exploring new tools to create innovative and efficient solutions for complex problems.
 
 <br>
 
@@ -23,7 +25,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,mysql,postgresql,mongodb,github,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,mysql,postgresql,mongodb,github,git,vscode&perline=3" />
   </a>
 </div>
 
@@ -40,7 +42,7 @@
 
 <hr>
 
-<h1 align="left">Hello World!!</h1>
+
 
 ###
 
