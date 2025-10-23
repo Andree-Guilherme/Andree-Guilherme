@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Andree+Guilherme;Eu+sou+um+Desenvolvedor+Full+Stack" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&lines=Ol%C3%A1%2C+sou+o+Andr%C3%A9;sou+estudante+de+engenharia+de+software" alt="Typing SVG" /></a>
 </div>
 
 <br>
@@ -41,5 +41,5 @@
 <hr>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Andree-Guilherme/Andree-Guilherme/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contributions" />
+  <img src="https://raw.githubusercontent.com/Andree-Guilherme/Andree-Guilherme/output/pacman-contribution-graph.svg" alt="Pac-Man Contributions" />
 </p>
