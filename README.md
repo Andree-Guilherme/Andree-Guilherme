@@ -1,85 +1,45 @@
-<!-- stats -->
-
-# 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andree-Guilherme&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="116"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andree-Guilherme&theme=dark&hide_border=false" height="116"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andree-Guilherme&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="120"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Andree+Guilherme;Eu+sou+um+Desenvolvedor+Full+Stack" alt="Typing SVG" /></a>
 </div>
 
-<!-- tools and technologies -->
+<br>
 
-# 🌐 Minha Tech Stack
 <div align="center">
-
-<table>
-  <tr>
-    <!-- Primeira linha: JavaScript, HTML, CSS -->
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-  </tr>
-  <tr>
-    <!-- Segunda linha: MySQL, PostgreSQL, MongoDB -->
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-  </tr>
-  <tr>
-    <!-- Terceira linha: GitHub, Git, VSCode -->
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VsCode" />
-      <br>VSCode
-    </td>
-  </tr>
-</table>
-
+  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/seu-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
+<hr>
 
-<!-- snake -->
----
+### 👨‍💻 Sobre Mim
+
+<p>
+  Sou um desenvolvedor apaixonado por tecnologia e por criar soluções que impactam positivamente a vida das pessoas. Sinta-se à vontade para explorar meus projetos e contribuições.
+</p>
+
+<br>
+
+### 🚀 Minha Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,mysql,postgresql,mongodb,github,git,vscode" />
+  </a>
+</div>
+
+<hr>
+
+### 📊 Minhas Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andree-Guilherme&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="140"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andree-Guilherme&theme=dark&hide_border=false" height="140"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andree-Guilherme&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="140"/>
+</div>
+
+<hr>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Andree-Guilherme/Andree-Guilherme/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contributions" />
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
