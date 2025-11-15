@@ -1,0 +1,32 @@
+name: Generate pacman animation
+
+on:
+  schedule:
+    # roda uma vez por dia (altere se quiser)
+    - cron: "0 0 * * *"
+  
+  # permite rodar manualmente no Actions
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # Gera a animação (snake/pacman)
+      - name: Generate animation
+        uses: platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/pacman.svg
+            dist/pacman-dark.svg?palette=github-dark
+
+      # Publica no branch "output"
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
