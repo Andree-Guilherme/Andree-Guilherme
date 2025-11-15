@@ -1,16 +1,11 @@
 <div align="center">
-  <h1 style="color:#00BFFF;">Olá, sou o André</h1>
-  <h2 style="color:#00BFFF;">Estudante de Engenharia de Software</h2>
+
+### Olá, sou o André
+### Estudante de Engenharia de Software
+
 </div>
 
-<br>
-
-<div align="center">
-  <a href="mailto:andreguilherme1213@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/andr%C3%A9-guilherme-8407822b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</div>
-
-<hr>
+---
 
 ### 👨‍💻 Sobre Mim
 
@@ -29,11 +24,10 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,mysql,postgresql,mongodb,github,git,vscode&perline=3" />
   </a>
   <br>
-  <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openai/74aa9c" alt="ChatGPT" height="40"/></a>
+  <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/768px-ChatGPT_logo.svg.png" alt="ChatGPT" height="40"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.deepseek.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/deepseek/00A59A" alt="DeepSeek" height="40"/></a>
-  &nbsp;&nbsp;
-  <a href="https://gemini.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/googlegemini/8e87ff" alt="Gemini" height="40"/></a>
+  <a href="https://logo-teka.com/en/deepseek/" target="_blank" rel="noopener noreferrer"><img src="https://logo-teka.com/wp-content/uploads/2025/07/deepseek-sign-logo.svg" alt="DeepSeek Whale" height="40" style="vertical-align:middle;"></a>
+  <a href="https://gemini.google.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/228020938?s=200&v=4" alt="Gemini" height="40"/></a>
 </div>
 
 <hr>
@@ -41,11 +35,20 @@
 ### 📊 Minhas Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andree-Guilherme&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="140"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andree-Guilherme&theme=dark&hide_border=false" height="140"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andree-Guilherme&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="140"/>
+
+  <!-- Primeira linha: stats e streak -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Andree-Guilherme&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="140" style="margin:5px;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andree-Guilherme&theme=dark&hide_border=false" height="140" style="margin:5px;"/>
+  </div>
+
+  <!-- Segunda linha: top langs -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andree-Guilherme&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="140" style="margin:5px;"/>
+  </div>
+
 </div>
+
 
 <hr>
 
