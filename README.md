@@ -1,12 +1,14 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&lines=Ol%C3%A1%2C+sou+o+Andr%C3%A9;sou+estudante+de+engenharia+de+software" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&color=00BFFF&center=true&vCenter=true&width=450&lines=Ol%C3%A1.+sou+o+Andr%C3%A9" alt="Olá! Sou o André" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&color=00BFFF&center=true&vCenter=true&width=600&lines=estudante+de+engenharia+de+software" alt="Estudante de engenharia de software" />
 </div>
 
 <br>
 
 <div align="center">
-  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/seu-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:andreguilherme1213@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/andr%C3%A9-guilherme-8407822b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
 <hr>
@@ -27,6 +29,10 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,mysql,postgresql,mongodb,github,git,vscode&perline=3" />
   </a>
+  <br>
+  <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=chatgpt" alt="ChatGPT" /></a>
+  <a href="https://www.deepseek.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/deepseek/00A59A" alt="DeepSeek" height="48"/></a>
+  <a href="https://gemini.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gemini" alt="Gemini" /></a>
 </div>
 
 <hr>
